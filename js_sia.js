@@ -174,3 +174,4 @@ function cerrar_detalle_interno_doctos()
     document.getElementById("div_detalle_interno_doctos").style.display="none";
     document.getElementById("div_detalle_interno_doctos").innerHTML("");
 }
+//ahora
